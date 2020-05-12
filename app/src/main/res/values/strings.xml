@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">bloodPressureushakov</string>
+    <string name="saveButton">Сохранить</string>
+    <string name="pressureButton">Давление</string>
+    <string name="healthRateButton">Показатели здоровья</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="middleName">Отчество</string>
+    <string name="age">Возраст</string>
+    <string name="titleText">Комплексная система мониторинга здоровья. Ушаков</string>
+    <string name="saveHealthRate">Сохранить жизненные показатели</string>
+    <string name="saveCurrentPressure">Сохранить текущее давление</string>
+    <string name="weigth">Вес</string>
+    <string name="stepsCount">Количество шагов</string>
+    <string name="successSave">Данные сохранены</string>
+    <string name="saveBtnError">Введены некорректные данные</string>
+    <string name="dateOfCheck">Дата замера</string>
+    <string name="lowPressure">Нижнее давление</string>
+    <string name="pulse">Пульс</string>
+    <string name="highPressure">Верхнее давление</string>
+    <string name="tachycardia">Тахикардия</string>
+</resources>
